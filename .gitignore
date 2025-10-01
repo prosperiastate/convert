@@ -1,0 +1,5 @@
+__pycache__/
+dji_thermal_sdk/*
+input_images/*
+output_images/*
+*.ipynb
