@@ -22,8 +22,8 @@ This repository contains a Python script that converts thermal JPEG images captu
 1. **Clone the repository:**
 
     ```sh
-    git clone https://github.com/alex-suero/thermal-image-converter.git
-    cd thermal-image-converter
+    git clone https://github.com/prosperiastate/convert.git
+    cd convert
     ```
     
 2. **Install the required Python libraries:**
@@ -41,7 +41,7 @@ This repository contains a Python script that converts thermal JPEG images captu
 3. **Make sure `exiftool.exe` is in the root directory:**
     - You can download `exiftool` from [here](https://exiftool.org/).
 
-4. **Unzip `dji_thermal_sdk.zip` and it is in the root directory**
+4. **Unzip `dji_thermal_sdk.zip` and it is in the root directory, detail forlder is available [here](https://www.dji.com/global/downloads/softwares/dji-thermal-sdk)**
 
 ## Usage
 1. **Prepare your input images:**
